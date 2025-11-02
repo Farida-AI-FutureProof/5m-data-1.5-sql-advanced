@@ -44,3 +44,15 @@ Learners will be able to:
 | 45 mins  | Code-along              | Use window functions to calculate aggregates over a set of rows. Use subqueries to filter data. Use common table expressions to create temporary tables. |
 | 15 mins  | Briefing / Q&A          | Brief on references, assignment, quiz and Q&A.                                                                                                           |
 |          | **END CLASS 3 HR MARK** |
+
+# 1.5 – SQL Advanced
+
+This module demonstrates advanced SQL concepts using DuckDB:
+
+- Meta queries (schema inspection)
+- Joins and Unions
+- Window functions (`ROW_NUMBER`, `RANK`, `SUM OVER`)
+- Subqueries
+- Common Table Expressions (CTEs)
+
+All examples are executed in **DuckDB** and verified in **DBeaver**.
